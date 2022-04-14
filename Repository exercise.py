@@ -1,2 +1,2 @@
-print("how do you like my new repository?")
-print ("yes!")
+print('how do you like my new repository?')
+print ('yes!')
